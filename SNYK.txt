@@ -1,0 +1,3 @@
+PR -- need read and write permission and admin of the repo right
+
+Data -- Snyk does not store any data. 
